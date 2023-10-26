@@ -11,7 +11,7 @@
 
 .menu__left-column {
     flex-direction: column;
-    padding-top: 4.5vh;
+    padding-top: 3vh;
     padding-left: 2vw;
     padding-right: 1vh;
     min-width: 2.5vw;
@@ -25,7 +25,7 @@
 }
 
 .menu__list-item {
-    margin-bottom: 25px;
+    margin-bottom: 2vh;
     min-width: 285px;
     
     
@@ -71,12 +71,12 @@
 .header__title {
     color: #1F3450;
     font-family: Roboto;
-    font-size: 2.5em;
+    font-size: 2em; 
     font-style: normal;
     font-weight: 900;
     line-height: normal;
     text-transform: uppercase;
-    padding-top: 5vh;
+    padding-top: 3vh;
     border-bottom: #8A8A8A 1px solid;
     
 }
@@ -114,7 +114,7 @@
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    padding-bottom: 10px;
+    padding-bottom: 1vh;
 }
 
 .text  {
@@ -125,7 +125,7 @@
     border: 1.5px solid #8A8A8A;
     background: #FFF;
     backdrop-filter: blur(2px);
-    margin-bottom: 35px;
+    margin-bottom: 3.2vh;
     color: #8A8A8A;
     font-family: Roboto;
     font-size: 20px;
